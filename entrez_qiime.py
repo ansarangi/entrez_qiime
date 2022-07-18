@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/opt/conda/envs/entrez_qiime_env/bin/python
 
 # Author: Chris Baker
 # Email:  ccmbaker@fas.harvard.edu
